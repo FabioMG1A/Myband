@@ -11,8 +11,8 @@
     <meta name="author" content="Fabio van den Broek" />
 
     <link rel="shortcut icon" type="image/x-icon" href="" />
-    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="css/style.css">
     <link href="//fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
 
